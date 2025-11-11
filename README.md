@@ -1,4 +1,4 @@
-# EN Antonio Pennacchia – Data Analytics & Reporting Specialist  
+#EN Antonio Pennacchia – Data Analytics & Reporting Specialist  
 
 Hi 👋  
 I’m **Antonio Pennacchia**, a professional with over **5 years of experience** in **Data Analytics** and **Business Intelligence**.  
@@ -33,6 +33,7 @@ Abituato a **non lasciare nulla al caso**, unisco rigore tecnico, attenzione ai 
 📬 **Contatti**  
 📧 antoniopennacchia1996@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/antonio-pennacchia-918609116/)  
+
 
 
 
