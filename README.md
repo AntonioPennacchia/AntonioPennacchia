@@ -1,50 +1,53 @@
-# 🇬🇧 Antonio Pennacchia – Data Analytics & Reporting Specialist  
+# 🇬🇧 Antonio Pennacchia – Business Data Analyst | Customer Analytics
 
-Hi 👋  
-I’m Antonio Pennacchia, a professional with over 5 years of experience in **Data Analytics** and **Business Intelligence**.  
-I specialize in transforming business data into clear, actionable insights that drive smarter decisions.
+Hi 👋
 
-Over the years, I’ve collaborated with companies such as **Adenes**, **ABB** e **Joivy**, developing dashboards, reports, and analytical solutions supporting sales, customer experience, marketing, finance, and operations.
+I'm Antonio Pennacchia, a Data Analyst with over 5 years of experience helping businesses transform data into actionable insights and better decisions.
 
-The same analytical mindset also drives my passion projects in football analytics, where data becomes a practical tool to support scouting, player profiling, performance analysis, and recruitment decision-making.
+Throughout my career, I've worked with companies such as **ABB**, **Joivy**, and **Adenes**, designing dashboards, KPI frameworks, reporting solutions, and analytical models to support business operations, customer experience, sales, and strategic decision-making.
 
-In March 2023, I earned the **Football Data Analyst certification** through **Wylab** and **TopIX**, further strengthening my analytical approach to football data.
+What motivates me most is translating business needs into practical analytical solutions. I enjoy understanding business processes, collaborating with stakeholders, defining meaningful KPIs, designing business rules, and turning complex data into clear, actionable insights.
 
-I’m used to leaving nothing to chance, combining technical precision, business understanding, and attention to detail.
+My technical background includes **Power BI, SQL, Python**, and Business Intelligence, while my professional interests are increasingly focused on **Customer Analytics, CRM Analytics, Marketing Analytics, and Decision Support**.
 
-📊 Check out my repositories for dashboards, analytics projects, training materials, and football analytics initiatives focused on scouting, player profiling, and decision-support models.
+Outside my professional work, I also develop Football Analytics projects, applying the same analytical mindset to scouting, player profiling, performance analysis, and decision-support models. In March 2023, I obtained the **Football Data Analyst** certification through **Wylab** and **TopIX**, expanding my analytical approach to sports data.
 
+I believe good analytics is not about creating dashboards—it's about helping people make better decisions.
 
-📬 **Contact**  
-📧 antoniopennacchia1996@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/antonio-pennacchia-918609116/)
-
+📊 Explore my repositories to discover Business Intelligence dashboards, Business Operations Analytics, Customer Analytics projects, Football Analytics case studies, and decision-support solutions.
 
 ---
 
+📬 **Contact**
 
-# 🇮🇹 Antonio Pennacchia – Data Analytics & Reporting Specialist  
+📧 [antoniopennacchia1996@gmail.com](mailto:antoniopennacchia1996@gmail.com)
 
-Ciao 👋  
-Sono Antonio Pennacchia, professionista con oltre 5 anni di esperienza nella **Data Analytics** e nella **Business Intelligence**.  
-Mi occupo di analizzare, visualizzare e valorizzare i dati aziendali per generare insight concreti e supportare decisioni basate sui dati.
-
-Negli anni ho collaborato con aziende come **AdenesV, **ABB** e **Joivy**, sviluppando dashboard, report e soluzioni analitiche a supporto di aree come vendite, customer experience, marketing, amministrazione e finanza, e operations.
-
-Lo stesso approccio analitico guida anche i miei progetti in ambito football analytics, dove i dati diventano uno strumento concreto a supporto di scouting, player profiling, performance analysis e processi decisionali.
-
-A marzo 2023 ho inoltre ottenuto la certificazione **Football Data Analyst** tramite **Wylab** e **TopIX**, approfondendo metodologie, modelli statistici e utilizzo dei dati applicati al calcio professionistico.
-
-Abituato a non lasciare nulla al caso, unisco rigore tecnico, attenzione ai dettagli e orientamento al business.
-
-📊 Scopri le mie repository per vedere esempi di dashboard, analisi, materiali formativi e progetti di football analytics legati a scouting, player profiling e supporto decisionale.
-
-
-📬 **Contatti**  
-📧 antoniopennacchia1996@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/antonio-pennacchia-918609116/)  
+🌐 LinkedIn: https://www.linkedin.com/in/antonio-pennacchia-918609116/
 
 
 
+# 🇮🇹 Antonio Pennacchia – Business Data Analyst | Customer Analytics
 
+Ciao 👋
 
+Sono Antonio Pennacchia, Data Analyst con oltre 5 anni di esperienza nell'utilizzo dei dati per supportare decisioni di business e trasformare informazioni complesse in insight concreti e utilizzabili.
+
+Nel corso della mia esperienza professionale ho collaborato con aziende come **ABB**, **Joivy** e **Adenes**, sviluppando dashboard, KPI, reportistica e soluzioni analitiche a supporto delle operations, della customer experience, delle vendite e dei processi decisionali.
+
+L'aspetto del mio lavoro che mi appassiona maggiormente è trasformare esigenze di business in soluzioni analitiche. Mi piace comprendere i processi aziendali, confrontarmi con gli stakeholder, definire KPI significativi, progettare regole di business e costruire strumenti che aiutino le persone a prendere decisioni migliori.
+
+Le mie principali competenze tecniche comprendono **Power BI, SQL e Python**, mentre il mio interesse professionale si sta orientando sempre di più verso **Customer Analytics, CRM Analytics, Marketing Analytics e Business Decision Support**.
+
+Parallelamente porto avanti progetti di Football Analytics, applicando lo stesso approccio analitico a scouting, player profiling, performance analysis e modelli di supporto alle decisioni. Nel marzo 2023 ho conseguito la certificazione **Football Data Analyst** attraverso **Wylab** e **TopIX**, approfondendo metodologie e analisi dei dati applicate al calcio.
+
+Credo che il valore della Data Analytics non sia costruire dashboard, ma aiutare il business a prendere decisioni migliori.
+
+📊 Nelle mie repository troverai progetti di Business Intelligence, Business Operations Analytics, Customer Analytics, Football Analytics e soluzioni di supporto alle decisioni.
+
+---
+
+📬 **Contatti**
+
+📧 [antoniopennacchia1996@gmail.com](mailto:antoniopennacchia1996@gmail.com)
+
+🌐 LinkedIn: https://www.linkedin.com/in/antonio-pennacchia-918609116/
